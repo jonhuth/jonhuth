@@ -1,7 +1,7 @@
-I build trading and data systems for crypto markets, and ship them with an AI agent swarm. On-chain since 2017.
+I build trading infrastructure and financial data systems, and ship them with an AI agent swarm.
 
-Most of my work is private: a venue-neutral execution and risk engine across 19 perp DEXs and prediction markets,
-and [Allsight](https://jhuth.dev/allsight), one ledger for every wallet, exchange, broker and bank account.
+Most of my work is private: a venue-neutral execution and risk engine, and [Allsight](https://jhuth.dev/allsight),
+a financial data platform with entity intelligence, bookkeeping and a tax engine that refuses to guess.
 
 Public:
 
